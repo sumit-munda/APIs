@@ -1,0 +1,2 @@
+This is a test frontend file.
+I moved the files from out to frontend.
